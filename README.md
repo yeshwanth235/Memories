@@ -1,6 +1,6 @@
 
 
-</span><span><a href="https://memories235.netlify.app/"><h3>Memories</h3></a>
+</span><a href="https://memories235.netlify.app/"><h3>Memories</h3></a><span>
 
 <p>An Reactjs application which stores our error which are came across during any project or internship.It is deployed in netlify click on memories<p>
 
